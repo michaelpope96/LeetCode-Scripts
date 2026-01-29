@@ -7,7 +7,6 @@ public:
 
         for (int i = 1; i < n; ++i) {
             result[i] = (encoded[i - 1] ^ result[i - 1]);
-            std::cout << result[i] << ' ';
         }
 
         return result;

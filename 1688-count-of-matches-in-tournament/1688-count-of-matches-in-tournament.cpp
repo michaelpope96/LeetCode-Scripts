@@ -13,8 +13,6 @@ public:
                 n /= 2;
                 matches += n;
             }
-
-            std::cout << "Teams = " << n << " Matches = " << matches << ", and " << temp << " teams advance\n";
         }
 
         return matches;

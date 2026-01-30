@@ -14,8 +14,6 @@ public:
         int d2 = cArray[2] - '0';
         int d3 = cArray[3] - '0';
 
-        // std::cout << d0 << " " << d1 << " " << d2 << " " << d3;
-
         // Form two 2-digit numbers:
         // Smallest digits (d0, d1) go in the tens place
         int num1 = d0 * 10 + d2;

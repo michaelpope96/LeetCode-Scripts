@@ -5,7 +5,6 @@ public:
         int size = nums.size();
         for (int i = 0; i < size; ++i) {
             if (setBits(i) == k) {
-                // std::cout << "Adding " << nums[i] << " to result" << std::endl;
                 result += nums[i];
             }
         }
@@ -15,7 +14,6 @@ public:
 
     int setBits(int num) {
         int count = std::bitset<32>(num).count();
-        // std::cout << "Set bits in " << num << ": " << count << std::endl;
         return count;
     }
 };

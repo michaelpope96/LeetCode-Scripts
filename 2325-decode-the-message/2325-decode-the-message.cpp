@@ -4,23 +4,22 @@ public:
         std::map<char, char> dictionary;
         char value = 'a';
         for (char c : key) {
-            if (c == ' ' || dictionary.contains(c)) {
-                continue;
+            if (c != ' ' && !dictionary.contains(c)) {
+                dictionary[c] = value;
+                ++value;
             }
-            dictionary[c] = value;
-            ++value;
         }
 
-        std::stringstream ss;
+        string answer = "";
 
         for (char c : message) {
             if (c == ' ') {
-                ss << " ";
+                answer += " ";
             } else {
-                ss << dictionary[c];
+                answer += dictionary[c];
             }
         }
 
-        return ss.str();
+        return answer;
     }
 };

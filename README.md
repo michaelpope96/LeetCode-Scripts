@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-find-words-containing-character](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3194-find-words-containing-character) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3582-find-indices-of-stable-mountains) |
 | [3701-compute-alternating-sum](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3701-compute-alternating-sum) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2714-left-and-right-sum-differences](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2714-left-and-right-sum-differences) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Two Pointers
 |  |
 | ------- |

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2058-concatenation-of-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2058-concatenation-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0740-delete-and-earn) |
 | [1123-single-row-keyboard](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1123-single-row-keyboard) |
 | [1904-second-largest-digit-in-a-string](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1904-second-largest-digit-in-a-string) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2325-decode-the-message](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2367-number-of-arithmetic-triplets) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3778-transform-array-by-parity](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum

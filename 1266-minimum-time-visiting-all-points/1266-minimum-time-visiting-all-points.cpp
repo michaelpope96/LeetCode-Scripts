@@ -24,7 +24,7 @@ public:
                     start[1] -= 1;
                 } else {
                     // move straight right
-                    start[0] +=1;
+                    return time + (end[0] - start[0]);
                 }
             } else if (end[0] - start[0] < 0) {
                  if (end[1] - start[1] > 0) {
@@ -37,14 +37,15 @@ public:
                     start[1] -= 1;
                 } else {
                     // move straight left
-                    start[0] -=1;
+                    return time + (start[0] - end[0]);
                 }
             } else {
                 if (end[1] - start[1] > 0) {
                     // move straight up
-                    start[1] += 1;
+                    return time + (end[1] - start[1]);
                 } else if (end[1] - start[1] < 0) {
                     // move straight down
+                    return time + (start[1] - end[1]);
                     start[1] -= 1;
                 } else {
                     // we found the target

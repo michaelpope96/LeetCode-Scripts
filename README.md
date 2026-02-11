@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0139-word-break) |
 | [0157-read-n-characters-given-read4](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0157-read-n-characters-given-read4) |
 | [0740-delete-and-earn](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0740-delete-and-earn) |
+| [1266-minimum-time-visiting-all-points](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1266-minimum-time-visiting-all-points) |
 | [1313-decompress-run-length-encoded-list](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1313-decompress-run-length-encoded-list) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1505-create-target-array-in-the-given-order) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0029-divide-two-integers) |
+| [1266-minimum-time-visiting-all-points](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1266-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1688-count-of-matches-in-tournament) |
@@ -328,6 +330,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0173-binary-search-tree-iterator) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
 
 ------

@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3582-find-indices-of-stable-mountains) |
 | [3701-compute-alternating-sum](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3701-compute-alternating-sum) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2652-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3516-find-closest-person](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3516-find-closest-person) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3567-convert-date-to-binary) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2714-left-and-right-sum-differences](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2714-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |

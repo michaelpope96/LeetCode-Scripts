@@ -9,9 +9,8 @@ public:
                 sum += num % 10;
                 if (sum >= answer) {
                     break;
-                } else {
-                    num /= 10;
                 }
+                num /= 10;
             }
 
             answer = std::min(answer, sum);

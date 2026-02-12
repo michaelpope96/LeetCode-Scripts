@@ -1,14 +1,15 @@
 class Solution {
 public:
-    int prefixCount(vector<string>& words, string pref) {
-        int n = pref.length();
+    int prefixCount(const std::vector<std::string>& words,
+                    const std::string& pref) {
+        const unsigned long n = pref.length();
         int answer = 0;
-        for (const string word: words) {
+        for (const std::string& word : words) {
             if (word.substr(0, n) == pref) {
                 ++answer;
             }
         }
-        
+
         return answer;
     }
 };

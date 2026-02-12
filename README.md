@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2974-minimum-number-game) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-find-words-containing-character](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3194-find-words-containing-character) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2418-sort-the-people) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3787-maximum-students-on-a-single-bench](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3787-maximum-students-on-a-single-bench) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3872-find-most-frequent-vowel-and-consonant) |

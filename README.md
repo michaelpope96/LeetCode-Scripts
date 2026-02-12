@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1323-maximum-69-number) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0029-divide-two-integers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1266-minimum-time-visiting-all-points) |
+| [1323-maximum-69-number](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1323-maximum-69-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1688-count-of-matches-in-tournament) |

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1534-count-good-triplets) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-subrectangle-queries](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1572-subrectangle-queries) |
+| [1572-matrix-diagonal-sum](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1572-matrix-diagonal-sum) |
 | [1580-shuffle-the-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1580-shuffle-the-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1720-decode-xored-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1720-decode-xored-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1572-subrectangle-queries](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1572-subrectangle-queries) |
+| [1572-matrix-diagonal-sum](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1572-matrix-diagonal-sum) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Backtracking
 |  |

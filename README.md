@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2058-concatenation-of-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2058-concatenation-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2265-partition-array-according-to-given-pivot) |

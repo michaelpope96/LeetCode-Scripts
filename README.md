@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1773-count-items-matching-a-rule) |
 | [1797-goal-parser-interpretation](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1797-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1859-sorting-the-sentence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1904-second-largest-digit-in-a-string](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1904-second-largest-digit-in-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2128-reverse-prefix-of-word) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1859-sorting-the-sentence](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1859-sorting-the-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2418-sort-the-people) |

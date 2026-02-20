@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-subrectangle-queries](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1572-subrectangle-queries) |
 | [1572-matrix-diagonal-sum](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1572-matrix-diagonal-sum) |
 | [1580-shuffle-the-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1580-shuffle-the-array) |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1720-decode-xored-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1720-decode-xored-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1323-maximum-69-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1486-xor-operation-in-an-array) |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1688-count-of-matches-in-tournament) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2714-left-and-right-sum-differences](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2714-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3427-sum-of-variable-length-subarrays) |

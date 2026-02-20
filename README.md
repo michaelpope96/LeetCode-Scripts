@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2481-strictly-palindromic-number) |
+| [2485-find-the-pivot-integer](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2485-find-the-pivot-integer) |
 | [2491-smallest-even-multiple](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2491-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2485-find-the-pivot-integer](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2485-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2714-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3432-count-partitions-with-even-sum-difference) |

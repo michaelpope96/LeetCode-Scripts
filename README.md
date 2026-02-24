@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2315-count-asterisks](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2418-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3194-find-words-containing-character) |

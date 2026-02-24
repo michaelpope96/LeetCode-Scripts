@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1266-minimum-time-visiting-all-points) |
 | [1313-decompress-run-length-encoded-list](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1313-decompress-run-length-encoded-list) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1505-create-target-array-in-the-given-order](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-shuffle-string](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1534-count-good-triplets) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2974-minimum-number-game](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2974-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1859-sorting-the-sentence](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1859-sorting-the-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |

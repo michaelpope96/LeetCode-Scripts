@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2974-minimum-number-game) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-find-words-containing-character](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3194-find-words-containing-character) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2652-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2965-find-missing-and-repeated-values](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3099-harshad-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-subrectangle-queries](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1572-subrectangle-queries) |
 | [1572-matrix-diagonal-sum](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1572-matrix-diagonal-sum) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2965-find-missing-and-repeated-values) |
 ## Backtracking
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2418-sort-the-people) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2965-find-missing-and-repeated-values) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3787-maximum-students-on-a-single-bench](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3787-maximum-students-on-a-single-bench) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3872-find-most-frequent-vowel-and-consonant) |

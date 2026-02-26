@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2652-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2812-find-the-maximum-achievable-number) |
+| [2843-count-symmetric-integers](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2843-count-symmetric-integers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3099-harshad-number) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1534-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2367-number-of-arithmetic-triplets](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2367-number-of-arithmetic-triplets) |
+| [2843-count-symmetric-integers](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2843-count-symmetric-integers) |
 ## Hash Table
 |  |
 | ------- |

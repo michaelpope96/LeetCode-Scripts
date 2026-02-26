@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1773-count-items-matching-a-rule](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1773-count-items-matching-a-rule) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1859-sorting-the-sentence](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1859-sorting-the-sentence) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2418-sort-the-people) |

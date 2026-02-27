@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1859-sorting-the-sentence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1904-second-largest-digit-in-a-string](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1904-second-largest-digit-in-a-string) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2128-reverse-prefix-of-word](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2128-reverse-prefix-of-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-single-row-keyboard](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1123-single-row-keyboard) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1904-second-largest-digit-in-a-string](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1904-second-largest-digit-in-a-string) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2325-decode-the-message](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2367-number-of-arithmetic-triplets) |

@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3099-harshad-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3516-find-closest-person](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3516-find-closest-person) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3567-convert-date-to-binary) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2491-smallest-even-multiple) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3194-find-words-containing-character) |
 | [3340-check-balanced-string](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3340-check-balanced-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3567-convert-date-to-binary) |
 | [3794-reverse-string-prefix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3794-reverse-string-prefix) |
 | [3811-reverse-degree-of-a-string](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3811-reverse-degree-of-a-string) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2974-minimum-number-game](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2974-minimum-number-game) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3701-compute-alternating-sum) |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |

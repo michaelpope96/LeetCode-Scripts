@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1688-count-of-matches-in-tournament) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2383-add-two-integers) |

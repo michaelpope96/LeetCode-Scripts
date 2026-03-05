@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2714-left-and-right-sum-differences](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2714-left-and-right-sum-differences) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2418-sort-the-people) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2864-maximum-odd-binary-number](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2864-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3194-find-words-containing-character) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1688-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2974-minimum-number-game) |
 | [3248-snake-in-matrix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3248-snake-in-matrix) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2418-sort-the-people) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2965-find-missing-and-repeated-values) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3162-find-the-number-of-good-pairs-i) |

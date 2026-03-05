@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-find-words-containing-character](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3194-find-words-containing-character) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3248-snake-in-matrix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3248-snake-in-matrix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2864-maximum-odd-binary-number](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2864-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3194-find-words-containing-character) |
+| [3248-snake-in-matrix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3248-snake-in-matrix) |
 | [3340-check-balanced-string](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3340-check-balanced-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2974-minimum-number-game](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2974-minimum-number-game) |
+| [3248-snake-in-matrix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3248-snake-in-matrix) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2058-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1904-second-largest-digit-in-a-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2128-reverse-prefix-of-word](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2128-reverse-prefix-of-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1904-second-largest-digit-in-a-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2325-decode-the-message](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2418-sort-the-people) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3778-transform-array-by-parity](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0740-delete-and-earn) |
 | [0804-unique-morse-code-words](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0804-unique-morse-code-words) |
 | [1266-minimum-time-visiting-all-points](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1266-minimum-time-visiting-all-points) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1313-decompress-run-length-encoded-list](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1313-decompress-run-length-encoded-list) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1323-maximum-69-number](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1323-maximum-69-number) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0740-delete-and-earn) |
 | [0804-unique-morse-code-words](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0804-unique-morse-code-words) |
 | [1123-single-row-keyboard](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1123-single-row-keyboard) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1656-design-an-ordered-stream](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1656-design-an-ordered-stream) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1904-second-largest-digit-in-a-string](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1904-second-largest-digit-in-a-string) |

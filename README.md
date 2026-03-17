@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1720-decode-xored-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1773-count-items-matching-a-rule](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1773-count-items-matching-a-rule) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1323-maximum-69-number](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1323-maximum-69-number) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2616-maximal-score-after-applying-k-operations) |

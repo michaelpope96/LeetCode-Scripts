@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-largest-local-values-in-a-matrix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2714-left-and-right-sum-differences](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2714-left-and-right-sum-differences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2418-sort-the-people) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2965-find-missing-and-repeated-values) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2367-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2481-strictly-palindromic-number) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3794-reverse-string-prefix) |

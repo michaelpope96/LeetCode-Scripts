@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3794-reverse-string-prefix) |
 | [3811-reverse-degree-of-a-string](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3811-reverse-degree-of-a-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3701-compute-alternating-sum) |
 | [3811-reverse-degree-of-a-string](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3811-reverse-degree-of-a-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Design
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Binary Search
 |  |
 | ------- |

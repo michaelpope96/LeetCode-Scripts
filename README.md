@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-find-words-containing-character](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3194-find-words-containing-character) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3248-snake-in-matrix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3248-snake-in-matrix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3099-harshad-number) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |

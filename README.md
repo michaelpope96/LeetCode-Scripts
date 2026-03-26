@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0139-word-break) |
 | [0157-read-n-characters-given-read4](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0157-read-n-characters-given-read4) |
+| [0561-array-partition](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0561-array-partition) |
 | [0740-delete-and-earn](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0740-delete-and-earn) |
 | [0804-unique-morse-code-words](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0804-unique-morse-code-words) |
 | [1266-minimum-time-visiting-all-points](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1266-minimum-time-visiting-all-points) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0561-array-partition) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1323-maximum-69-number](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1323-maximum-69-number) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0561-array-partition) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0561-array-partition) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Divide and Conquer
 |  |

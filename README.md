@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3516-find-closest-person](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3516-find-closest-person) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3370-guess-the-number-using-bitwise-questions-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3370-guess-the-number-using-bitwise-questions-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2974-minimum-number-game) |
 | [3248-snake-in-matrix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3248-snake-in-matrix) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -476,6 +479,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-design-an-ordered-stream](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1656-design-an-ordered-stream) |
+## Recursion
+|  |
+| ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
 
 ------

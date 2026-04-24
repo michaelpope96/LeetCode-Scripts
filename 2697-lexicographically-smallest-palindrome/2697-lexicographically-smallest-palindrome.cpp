@@ -1,21 +1,21 @@
 class Solution {
 public:
-    string makeSmallestPalindrome(string s) {
-        int left = 0;
-        int right = s.size() - 1;
+    std::string makeSmallestPalindrome(std::string s) {
+        // Use size_t for type safety with s.size()
+        std::size_t left = 0;
+        std::size_t right = s.size() - 1;
 
-        while (left <= right) {
+        // Condition changed to left < right
+        while (left < right) {
             if (s[left] != s[right]) {
-                if (s[left] < s[right]) {
-                    s[right] = s[left];
-                } else {
-                    s[left] = s[right];
-                }
+                // Find the smaller character and assign it to both positions
+                char minChar = std::min(s[left], s[right]);
+                s[left] = s[right] = minChar;
             }
             ++left;
             --right;
         }
-        
+
         return s;
     }
 };

@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3778-transform-array-by-parity](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3778-transform-array-by-parity) |
 | [3787-maximum-students-on-a-single-bench](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3787-maximum-students-on-a-single-bench) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3567-convert-date-to-binary) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3783-mirror-distance-of-an-integer) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Number Theory

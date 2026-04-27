@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0561-array-partition) |
 | [0740-delete-and-earn](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0740-delete-and-earn) |
 | [0804-unique-morse-code-words](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0804-unique-morse-code-words) |
+| [0942-di-string-match](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0942-di-string-match) |
 | [1266-minimum-time-visiting-all-points](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1266-minimum-time-visiting-all-points) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1313-decompress-run-length-encoded-list](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1313-decompress-run-length-encoded-list) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0561-array-partition) |
+| [0942-di-string-match](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0942-di-string-match) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1323-maximum-69-number](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1323-maximum-69-number) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0139-word-break) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0804-unique-morse-code-words](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0804-unique-morse-code-words) |
+| [0942-di-string-match](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1021-remove-outermost-parentheses) |
 | [1089-remove-vowels-from-a-string](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1089-remove-vowels-from-a-string) |
 | [1123-single-row-keyboard](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1123-single-row-keyboard) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0942-di-string-match](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0942-di-string-match) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2128-reverse-prefix-of-word](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/2265-partition-array-according-to-given-pivot) |

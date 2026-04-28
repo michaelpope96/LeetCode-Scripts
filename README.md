@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1572-matrix-diagonal-sum) |
 | [1580-shuffle-the-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1580-shuffle-the-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1656-design-an-ordered-stream](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1656-design-an-ordered-stream) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1720-decode-xored-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1720-decode-xored-array) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/0804-unique-morse-code-words) |
 | [1123-single-row-keyboard](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1123-single-row-keyboard) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1656-design-an-ordered-stream](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1656-design-an-ordered-stream) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1904-second-largest-digit-in-a-string](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1904-second-largest-digit-in-a-string) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1859-sorting-the-sentence](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/1913-maximum-product-difference-between-two-pairs) |

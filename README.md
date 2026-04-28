@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-find-closest-person](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3516-find-closest-person) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3567-convert-date-to-binary) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3783-mirror-distance-of-an-integer) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3567-convert-date-to-binary) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3794-reverse-string-prefix) |
 | [3811-reverse-degree-of-a-string](https://github.com/MichaelAnthonyP96/LeetCode-Scripts/tree/master/3811-reverse-degree-of-a-string) |
